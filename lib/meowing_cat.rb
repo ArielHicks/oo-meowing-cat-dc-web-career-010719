@@ -9,3 +9,4 @@ class Cat
       @age = 0
     end
     
+end
