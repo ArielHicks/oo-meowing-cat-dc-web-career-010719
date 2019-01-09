@@ -6,3 +6,5 @@ end
 maru = Cat.new
 
 maru.name = "meow"
+
+end
