@@ -8,5 +8,5 @@ class Cat
       @asleep = false
       @age = 0
     end
-    
+
 end
